@@ -3,3 +3,4 @@ dia 0
 - taller de prompt
 - taller de pensamiento
 - taller github
+dia 1
